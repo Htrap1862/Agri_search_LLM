@@ -1,0 +1,18 @@
+--- PM-KISAN SCHEME RULES (2026) ---
+ELIGIBILITY: 
+1. All landholding farmer families with cultivable land in their names.
+2. The "2-hectare" limit is removed; all land sizes are eligible.
+3. Family is defined as: Husband, Wife, and Minor Children.
+EXCLUSIONS (Ineligible if any member is):
+- A retired/serving govt employee (except Multi-Tasking Staff/Class IV/Group D).
+- A monthly pensioner receiving ₹10,000 or more.
+- An Income Tax payer in the last assessment year.
+- A professional (Doctor, Engineer, Lawyer, CA).
+
+--- STATE IRRIGATION SUBSIDY (PMKSY 2026) ---
+ELIGIBILITY:
+1. Small Farmers (1 to 2 Hectares) and Marginal Farmers (< 1 Hectare).
+BENEFITS:
+- 100% Subsidy for Drip/Sprinkler installation for Small/Marginal farmers.
+- 75% Subsidy for Other/Big farmers (> 2 Hectares).
+- Extra: ₹25,000 subsidy for digging borewells; ₹15,000 for Electric motors.

@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-openai
+chromadb
+sentence-transformers
+python-dotenv
+pypdf
+streamlit
+langchain-google-genai
+langchain-chroma
+langchain-tavily
+streamlit-mic-recorder
+gTTS
+SpeechRecognition
+pydub
